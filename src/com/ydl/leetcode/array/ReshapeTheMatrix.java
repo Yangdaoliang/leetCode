@@ -1,4 +1,4 @@
-package com.ydl.leetcode;
+package com.ydl.leetcode.array;
 
 public class ReshapeTheMatrix {
 
